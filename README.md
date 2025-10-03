@@ -11,17 +11,17 @@ The chatbot uses simple `if-elif-else` statements to simulate conversations with
 🛠 Features
 
 - Greets the user (`hello`, `hi`)
-- 
+
 - Provides weather information 🌤️
-- 
-- Introduces itself and the developer 👨‍💻
-- 
+
+- ntroduces itself and the developer 👨‍💻
+
 - Shares a list of 10 MMA fighters 🥊
-- 
+
 - Answers simple predefined questions
-- 
+
 - Shows date & current time ⏰
-- 
+
 - Exits gracefully when the user types `by`, `it's done`, or `thanku`
 
 
